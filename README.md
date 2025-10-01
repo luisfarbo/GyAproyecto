@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ## Configuración de la Base de Datos
 
-Crea un archivo `.env` en la raíz del proyecto con las siguientes variables:
+Crea un archivo (.env) en la raíz del proyecto con las siguientes variables:
 ```env
 # Configuración de la base de datos PostgreSQL
 
