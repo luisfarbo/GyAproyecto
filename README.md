@@ -29,12 +29,26 @@ pip install -r requirements.txt
 
 ---
 
-### 4. Uso
+## Configuración de la Base de Datos
 
-markdown
+Crea un archivo `.env` en la raíz del proyecto con las siguientes variables:
+```env
+# Configuración de la base de datos PostgreSQL
 
-## ▶️ Uso
+# Host donde se encuentra la base de datos
+DB_HOST=localhost
 
-Ejecuta el notebook:
+# Nombre de la base de datos
+DB_NAME=db_discapacidad_laboral
 
+# Usuario de la base de datos
+DB_USER=arq
 
+# Contraseña del usuario
+DB_PASSWORD=password
+
+# Esquema de la base de datos
+DB_SCHEMA=public
+
+# Nombre de la tabla
+DB_TABLE=vinculacion_personas_discapacidad
