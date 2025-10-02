@@ -20,12 +20,14 @@ El objetivo es demostrar cómo integrar múltiples etapas de un pipeline de dato
 
 ## 🚀 Instalación
 
-Clona el repositorio e instala dependencias:
+Clona el repositorio e instalar las dependencias:
 
-bash
+```bash
 git clone https://github.com/tuusuario/tu-repo.git
-cd tu-repo
-pip install -r requirements.txt
+```
+```bash
+pip install -r requirements.txt -y
+```
 
 ---
 
@@ -53,6 +55,8 @@ DB_SCHEMA=public
 # Nombre de la tabla
 DB_TABLE=vinculacion_personas_discapacidad
 ```
+
+Ejecutar el script SQL de creación de base de datos ubicado en **BD/database_creation.sql**
 
 ---
 
