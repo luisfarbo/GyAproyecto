@@ -53,6 +53,8 @@ DB_SCHEMA=public
 # Nombre de la tabla
 DB_TABLE=vinculacion_personas_discapacidad
 
+---
+
 ## Autores ✒️
 
 * **Lina Marcela Santiago Rayo**
