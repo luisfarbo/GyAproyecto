@@ -54,7 +54,7 @@ DB_SCHEMA=public
 DB_TABLE=vinculacion_personas_discapacidad
 ```
 
---
+---
 
 ## Autores
 * **Lina Marcela Santiago Rayo**
@@ -62,7 +62,7 @@ DB_TABLE=vinculacion_personas_discapacidad
 * **Luis Fernando Arboleda Hurtado**
 * **Joner Rodolfo Ruiz Montaño**
 
---
+---
 
 ## Licencia
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
