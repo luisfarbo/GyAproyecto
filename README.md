@@ -51,7 +51,7 @@ DB_PASSWORD=password
 DB_SCHEMA=public
 
 # Nombre de la tabla
-DB_TABLE=vinculacion_personas_discapacidad
+DB_TABLE=vinculacion_personas_discapacidad```
 
 ---
 
@@ -61,4 +61,3 @@ DB_TABLE=vinculacion_personas_discapacidad
 * **Andrés Fernando Puyo Bazallo**
 * **Luis Fernando Arboleda Hurtado**
 * **Joner Rodolfo Ruiz Montaño**
-
