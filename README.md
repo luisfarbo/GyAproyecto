@@ -51,4 +51,18 @@ DB_PASSWORD=password
 DB_SCHEMA=public
 
 # Nombre de la tabla
-DB_TABLE=vinculacion_personas_discapacidad```
+DB_TABLE=vinculacion_personas_discapacidad
+```
+
+--
+
+## Autores
+* **Lina Marcela Santiago Rayo**
+* **Andrés Fernando Puyo Bazallo**
+* **Luis Fernando Arboleda Hurtado**
+* **Joner Rodolfo Ruiz Montaño**
+
+--
+
+## Licencia
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
